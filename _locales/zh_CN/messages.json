@@ -1,0 +1,11 @@
+{
+    "extDescription": {
+        "message": "元素移除助手 - 精准清理网页元素,一款强大的 Chrome 扩展程序，可让您通过配置 HTML 元素的属性来移除网页上的特定元素。它能帮助您清理干扰元素，优化浏览体验。"
+    },
+    "removeButtonText": {
+        "message": "移除元素"
+    },
+    "clearButtonText": {
+        "message": "清除"
+    }
+}

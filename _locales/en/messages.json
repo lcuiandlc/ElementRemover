@@ -1,0 +1,11 @@
+{
+    "extDescription": {
+        "message": "A powerful Chrome extension that allows you to remove specific HTML elements from web pages by configuring their attributes. It helps you clean up distracting elements and optimize your browsing experience."
+    },
+    "removeButtonText": {
+        "message": "Remove Elements"
+    },
+    "clearButtonText": {
+        "message": "Clear"
+    }
+}
