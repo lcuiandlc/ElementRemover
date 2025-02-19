@@ -17,3 +17,15 @@ Chrome 插件
 #### 使用说明
 
 删除指定的HTML元素，非常方便
+
+#### Introduction
+Element Removal Assistant - Precision Cleaning of Web Elements. It is a powerful Chrome extension that allows you to remove specific elements on web pages by configuring the attributes of HTML elements. It can help you clean up disturbing elements and optimize your browsing experience.
+#### Software Architecture
+Chrome plugin
+#### Installation Tutorial
+Load the plugin:
+Open the Chrome browser and visit chrome://extensions/.
+Enable "Developer mode" (usually in the upper - right corner of the page).
+Locate your plugin and click the "Reload" button.
+Instructions for Use
+It is very convenient to delete specified HTML elements.
